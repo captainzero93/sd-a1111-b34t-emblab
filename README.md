@@ -40,7 +40,7 @@ Short Overview:
 
 ## New features
 
-# iInstruction how to use embedding batch decomposing
+# Instruction how to use embedding batch decomposing
 
 ![VideoReadMe](https://raw.githubusercontent.com/834t/temp/main/imgs/automatic%20decomposing%20process.webp)
 
