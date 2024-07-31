@@ -1,7 +1,7 @@
 # SD A1111 B34T EmbLab
 
 ## Overview
-SD A1111 B34T EmbLab is a simple embedding laboratory extension for the Stable Diffusion A1111 UI (SD1.5 version). This tool allows users to easily modify, merge, and create embeddings using groups of tokens.
+SD A1111 B34T EmbLab is a simple embedding laboratory extension for the Stable Diffusion A1111 UI *(SD1.5 version)*. This tool allows users to easily modify, merge, and create embeddings using groups of tokens.
 
 ## Inspiration
 This project was inspired by:
