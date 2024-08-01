@@ -3,7 +3,7 @@ Improved Model Detection:
 Updated the determine_embedding_distribution() function to handle different model types, including SDXL, SD 1.x, and SD 2.x.
 Added checks to identify the model structure and find the correct embedding layer.
 
-Error Handling and Graceful Degradation:
+Error Handling:
 
 Implemented checks to detect unsupported models (like SDXL) without crashing.
 Added informative messages for users when certain features are unavailable due to model incompatibility.
