@@ -1,4 +1,3 @@
-Fixes:
 Improved Model Detection:
 Updated the determine_embedding_distribution() function to handle different model types, including SDXL, SD 1.x, and SD 2.x.
 Added checks to identify the model structure and find the correct embedding layer.
