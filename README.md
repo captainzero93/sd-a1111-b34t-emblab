@@ -1,3 +1,22 @@
+Improved Model Detection:
+Updated the determine_embedding_distribution() function to handle different model types, including SDXL, SD 1.x, and SD 2.x.
+Added checks to identify the model structure and find the correct embedding layer.
+
+Error Handling and Graceful Degradation:
+
+Implemented checks to detect unsupported models (like SDXL) without crashing.
+Added informative messages for users when certain features are unavailable due to model incompatibility.
+
+Updated add_tab() Function:
+
+Modified to handle cases where the embedding distribution cannot be determined.
+Added conditional execution of functions based on model compatibility.
+Included warning messages in the UI for unsupported models.
+
+Embedding Layer Access:
+Changed how the embedding layer is accessed to accommodate different model structures.
+Implemented a more flexible approach to navigate through the model's attributes.
+
 # SD A1111 B34T EmbLab
 
 ## Overview
